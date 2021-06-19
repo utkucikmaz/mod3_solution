@@ -1,0 +1,60 @@
+body{
+  font-family: 'Playfair Display', serif;
+}
+#header-nav {
+  background-color: lightgray;
+  border-radius: 0;
+  border: 0;
+  height: auto;
+  padding-bottom: 20px;
+}
+.navbar-brand {
+  padding-top: 25px;
+}
+.navbar-brand span {
+font-family: 'Comic Neue', cursive;
+  color: black;
+  text-align: left;
+  font-size: 1.7em;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  color: black;
+  text-align: center;
+}
+#nav-list a:hover {
+  background-color: whitesmoke;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+
+.box{ 
+background-color: gray;
+text-align: center;
+font-size: 0.8em;
+border: 3px black solid;
+padding: 30px;
+width: auto;
+font-size: 18px;
+margin: 15px 10px 15px 10px;
+position: relative;
+}
+div div p{
+  font-size: 1.3em;
+  font-weight: bold;
+}
+div div div button{
+  background: none;
+  margin-top: 10px;
+  font-size: 0.7em;
+  opacity: .8;
+  color: black;
+}
